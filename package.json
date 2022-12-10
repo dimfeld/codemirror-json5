@@ -1,0 +1,12 @@
+{
+  "name": "codemirror-json5",
+  "version": "1.0.0",
+  "description": "Codemirror 6 support for JSON5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Codemirror", "JSON5"],
+  "author": "Daniel Imfeld <dimfeld>",
+  "license": "MIT"
+}
