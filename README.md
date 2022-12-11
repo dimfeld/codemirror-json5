@@ -34,7 +34,7 @@ import { jsonCursorPath, json5ParseCache } from 'codemirror-json5';
 import get from 'just-safe-get';
 
 function getJson5Info(state: EditorState) {
-  const parsed = state.field(json5ParseCache);
+  const object = state.field(json5ParseCache);
   const { path } = state.field(jsonCursorPath);
 
   return {
