@@ -2,7 +2,7 @@
 
 This package implements JSON5 support for Codemirror 6.
 
-Beyond the basic support, it provides a linter and state fields the expose:
+Beyond the basic support, it provides a linter and state fields that expose:
 
 - The parsed object produced by the JSON5 parser, so that your surrounding code can use that result instead of parsing it twice.
 - The path in the object that the cursor is on.
