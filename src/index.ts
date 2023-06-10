@@ -31,7 +31,7 @@ export const json5Language = LRLanguage.define({
         'PropertyName!': t.propertyName,
         Number: t.number,
         'True False': t.bool,
-        null: t.null,
+        Null: t.null,
         ', PropertyColon': t.separator,
         '[ ]': t.squareBracket,
         '{ }': t.brace,
