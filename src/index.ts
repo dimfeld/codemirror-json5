@@ -32,6 +32,8 @@ export const json5Language = LRLanguage.define({
         Number: t.number,
         'True False': t.bool,
         Null: t.null,
+        LineComment: t.lineComment,
+        BlockComment: t.blockComment,
         ', PropertyColon': t.separator,
         '[ ]': t.squareBracket,
         '{ }': t.brace,
