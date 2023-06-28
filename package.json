@@ -29,7 +29,7 @@
     "@lezer/common": "^1.0.0",
     "@lezer/highlight": "^1.0.0",
     "json5": "^2.2.1",
-    "lezer-json5": "^2.0.1"
+    "lezer-json5": "^2.0.2"
   },
   "devDependencies": {
     "@codemirror/buildhelper": "^0.1.5",
