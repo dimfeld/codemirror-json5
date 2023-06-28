@@ -1,6 +1,6 @@
 {
   "name": "codemirror-json5",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JSON5 support for Codemirror 6",
   "main": "dist/index.cjs",
   "exports": {
